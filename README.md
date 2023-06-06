@@ -1,1 +1,1 @@
-# Algerian_Forest_FIre_Linear_Regression
+# Algerian_Forest_Fire_Linear_Regression
